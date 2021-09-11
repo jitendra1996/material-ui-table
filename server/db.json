@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "jitendra kumar",
+      "username": "jeet",
+      "email": "jeet1000@gmail.com",
+      "phone": "2679656235",
+      "website": "jitendra.edu"
+    },
+    {
+      "name": "rahul kumar",
+      "username": "rahul",
+      "email": "rahul1000@gmail.com",
+      "phone": "45698745867",
+      "website": "rahul.org",
+      "id": "FcIg82S"
+    },
+    {
+      "name": "akash yadav",
+      "username": "akash",
+      "email": "akash1000@gmail.com",
+      "phone": "8987787895",
+      "website": "akash.in",
+      "id": "B7MZXfy"
+    },
+    {
+      "name": "sachin jha",
+      "username": "jha",
+      "email": "sachin1000@gmail.com",
+      "phone": "4589675621",
+      "website": "sachin.in",
+      "id": "nQNWdCC"
+    },
+    {
+      "name": "mansi",
+      "username": "mansi",
+      "email": "mansi1000@gmail.com",
+      "phone": "6584789512",
+      "website": "mansi.com",
+      "id": "bPl0U70"
+    },
+    {
+      "name": "suchi sharma",
+      "username": "suchi",
+      "email": "suchi1000@yahoo.com",
+      "phone": "6987456213",
+      "website": "suchi.com",
+      "id": "41euokC"
+    },
+    {
+      "name": "priya verma",
+      "username": "priya",
+      "email": "priya1000@gmail.com",
+      "phone": "3658974512",
+      "website": "priya.co",
+      "id": "7591j0s"
+    },
+    {
+      "name": "priti verma",
+      "username": "priti",
+      "email": "priti1000@gmail.com",
+      "phone": "7894561203",
+      "website": "priti.edu",
+      "id": "hr52rzr"
+    },
+    {
+      "name": "john ",
+      "username": "john",
+      "email": "john1000@gmail.com",
+      "phone": "5678945601",
+      "website": "john.io",
+      "id": "nPW3Cee"
+    },
+    {
+      "name": "naina rawat",
+      "username": "naina",
+      "email": "naina1000@gmail.com",
+      "phone": "7958975620",
+      "website": "naina.io",
+      "id": "s8eWU68"
+    }
+  ]
+}

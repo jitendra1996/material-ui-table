@@ -1,0 +1,8 @@
+.container{
+    margin: 20px;
+    padding: 20px;
+    background: #000000;
+    border: 5px solid cornflowerblue;
+    border-radius: 20px;
+    box-shadow: 0rem 0rem 1rem .5rem cornflowerblue;
+}
